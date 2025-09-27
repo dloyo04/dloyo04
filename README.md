@@ -1,7 +1,7 @@
 
-## Hola Mundo:
+## Hola Mundo!
 
-Soy Daniel Loyo, Desarrollador de Software.<br><br>Tengo más de 3 años de experiencia inmerso en el mundo del desarrollo web, construyendo proyectos que van desde los fundamentos hasta arquitecturas complejas. Creo firmemente en entender el "porqué" de las tecnologías para crear mejores productos.<br><br> Me especializo en el ecosistema de **JavaScript moderno**, con un fuerte enfoque en **Next.js** y **TypeScript** para crear aplicaciones robustas.<br> He construido proyectos con **Vanilla JavaScript** y **React.js**, lo que me ha dado una base sólida y un profundo entendimiento del DOM y el manejo de estado.<br> Soy un entusiasta investigador del ecosistema **cripto y Web3**, siempre aprendiendo sobre las nuevas fronteras de la tecnología.
+Soy Daniel, Desarrollador de Software.<br><br>Tengo más de 3 años de experiencia inmerso en el mundo del desarrollo web, construyendo proyectos que van desde los fundamentos hasta arquitecturas complejas. Creo firmemente en entender el "porqué" de las tecnologías para crear mejores productos.<br><br> Me especializo en el ecosistema de **JavaScript moderno**, con un fuerte enfoque en **Next.js** y **TypeScript** para crear aplicaciones robustas.<br> He construido proyectos con **Vanilla JavaScript** y **React.js**. <br> Soy un entusiasta investigador del ecosistema **Cripto y Web3**, siempre aprendiendo sobre las nuevas fronteras de la tecnología.
 
 <br>
 
